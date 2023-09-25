@@ -9,14 +9,13 @@
     <br />
     </p>
     <div class="button-box">
-    <a class="button" href="https://www.linkedin.com/in/matthieugravy/" target="_blank">
-    Linkedin
-  </a>
-  <a class="button " href="https://github.com/matthieuGravy" target="_blank">
-   gitHub</a>
-  <a  class="button"  href ="https//pommepatate.be" target="_blank">
-    pommepatate.be<a/>
-</div>
-
+      <a class="button" href="https://www.linkedin.com/in/matthieugravy/" target="_blank">
+      Linkedin
+      </a>
+      <a class="button " href="https://github.com/matthieuGravy" target="_blank">
+      gitHub</a>
+      <a  class="button"  href ="https//pommepatate.be" target="_blank">
+      pommepatate.be<a/>
+    </div>
   </div>
 `;
