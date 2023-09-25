@@ -5,7 +5,7 @@
       <h1><span class="col-2">M</span>atthieu <span class="w-600"><span class="col-2">G</span>ravy</span></h1>
 
     <p>
-    <span>Web dev junior</span>| <span>JS enthousiast </span>  | <span>Ubuntu lover </span>  | <span>#BeCode trainee </span>   
+    <span>Web dev junior </span>| <span>JS enthousiast </span>  | <span>Ubuntu lover </span>  | <span>#BeCode trainee </span>   
     <br />
     </p>
     <div class="button-box">
