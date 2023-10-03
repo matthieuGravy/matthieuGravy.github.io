@@ -30,26 +30,31 @@ Yes, certainly. I hope to use a framework to provide a better experience.
 <br/>
 
 ## How to install it? 
-Navigate to the directory:
-```sh
-cd v-card
-```
+
+> Navigate to the directory:
+>
+> ```sh
+> cd v-card
+> ```
 
 <br/>
 
-Make sure you have Node.js version 18 LTS installed beforehand:
-```sh
-npm i
-```
+> Make sure you have Node.js version 18 LTS installed beforehand:
+>
+> ```sh
+> npm i
+> ```
 <br/>
 
-And you can view the development version:
-```sh
-npm run dev
-```
+> And you can view the development version:
+>
+> ```sh
+> npm run dev
+> ```
 <br/>
 
-Please note that the installation instructions assume Node.js version 18 LTS is already installed. If you need further assistance or have any other questions, feel free to ask!
+> > Please note that the installation instructions assume Node.js version 18 LTS is already installed. If you need further assistance or have any other questions, feel free to ask!
+
 <br/>
 <br/>
 
