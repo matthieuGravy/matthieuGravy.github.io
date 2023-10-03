@@ -12,7 +12,7 @@ By Matthieu Gravy
 As part of the training I am currently undergoing at BeCode.org, it was an opportunity to set up the use of git, HTML, and CSS. It also provided a chance to interact with deployment.
 <br/>
 <br/>
-## Problème rencontré ? 
+## Issues encountered?
 I encountered some issues that I was able to resolve in subsequent projects, primarily related to linking the 'dist' to a GitHub project. 
 <br/>
 <br/>
