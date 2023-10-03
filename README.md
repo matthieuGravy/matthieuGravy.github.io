@@ -48,5 +48,5 @@ Please note that the installation instructions assume Node.js version 18 LTS is 
 <br/>
 <br/>
 
-![image](https://github.com/matthieuGravy/matthieuGravy.github.io/assets/86630163/f81e3db9-6606-4c6e-a044-023e341f47fd)
+![wayne](https://github.com/matthieuGravy/matthieuGravy.github.io/assets/86630163/f81e3db9-6606-4c6e-a044-023e341f47fd "wayne")
 
