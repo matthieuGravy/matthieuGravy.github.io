@@ -47,3 +47,6 @@ npm run dev
 Please note that the installation instructions assume Node.js version 18 LTS is already installed. If you need further assistance or have any other questions, feel free to ask!
 <br/>
 <br/>
+
+![image](https://github.com/matthieuGravy/matthieuGravy.github.io/assets/86630163/f81e3db9-6606-4c6e-a044-023e341f47fd)
+
