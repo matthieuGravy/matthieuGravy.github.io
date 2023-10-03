@@ -34,7 +34,7 @@ Yes, certainly. I hope to use a framework to provide a better experience.
 > Navigate to the directory:
 >
 > ```sh
-> cd v-card
+> cd matthieuGravy.github.io
 > ```
 
 <br/>
