@@ -1,7 +1,6 @@
 # matthieuGravy.github.io
 You can visit the project at this [link](https://matthieugravy.github.io/).
 
-By Matthieu Gravy
 <br/>
 <br/>
 ## Languages
@@ -50,3 +49,8 @@ Please note that the installation instructions assume Node.js version 18 LTS is 
 
 ![wayne](https://media0.giphy.com/media/3oEjI8vagntG7EDxgQ/giphy.gif?cid=ecf05e4724s96ryt3gbe4sqj60txpiep00aht6icivsf5bam&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
+<br/>
+<br/>
+
+> Created by _Matthieu Gravy_
+> > <a href="https://www.linkedin.com/in/matthieugravy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" title="linkedin"/></a>
